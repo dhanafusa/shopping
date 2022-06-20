@@ -1,3 +1,8 @@
 body {
   background-color: #0bd;
-}/*# sourceMappingURL=style.css.map */
+}
+
+table tr td {
+  background-color: beige;
+}
+/*# sourceMappingURL=style.css.map */
