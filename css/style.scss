@@ -1,6 +1,11 @@
 body{
     background-color: #0bd;
 }
+h1{
+    &.headline{
+        color: brown;
+    }
+}
 table{
     tr{
         td{
